@@ -50,7 +50,8 @@ ul.posts {
     margin: 20px auto 40px; 
     font-size: 1.1em;
     line-height: 1.2em;
-    color: red;
+    text-decoration: none;
+    color: rgb(201,174,80);
 }
 
 ul.posts li {
