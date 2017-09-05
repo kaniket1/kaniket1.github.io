@@ -23,16 +23,16 @@ a:hover {
     color: rgb(201,174,80);
 }
 h1 { 
-    font-size: 1.8em;
-    margin-top: 0.67em;
-    margin-bottom: 0.67em;
+    font-size: 1.4em;
+    margin-top: 0.27em;
+    margin-bottom: 0.27em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     color: rgb(160,105,30);
 }
 h2 {
-    font-size: 1.5em;
-    margin-top: 0.83em;
-    margin-bottom: 0.83em;
+    font-size: 1.4em;
+    margin-top: 0.27em;
+    margin-bottom: 0.27em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     color: rgb(160,105,30);
 }
