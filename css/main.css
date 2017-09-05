@@ -1,7 +1,7 @@
 body {
     margin: 60px auto;
     width: 70%;
-    color: blue;
+    color: rgb(160,105,30);
     background-color: rgb(220,193,97);
 }
 nav ul, footer ul {
