@@ -20,15 +20,12 @@ a:hover {
     text-decoration: underline;
 }
 h1 { 
-    display: block;
-    font-size: 2em;
+    font-size: 1.8em;
     margin-top: 0.67em;
     margin-bottom: 0.67em;
-    text-decoration: underline;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 h2 {
-    display: block;
     font-size: 1.5em;
     margin-top: 0.83em;
     margin-bottom: 0.83em;
