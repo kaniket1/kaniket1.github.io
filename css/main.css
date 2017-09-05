@@ -24,7 +24,8 @@ h1 {
     font-size: 2em;
     margin-top: 0.67em;
     margin-bottom: 0.67em;
-	font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    text-decoration: underline;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 h2 {
     display: block;
