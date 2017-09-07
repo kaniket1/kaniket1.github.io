@@ -1,3 +1,7 @@
+tags:
+- jekyll
+- code
+
 It is rare that a movie captures contemporaneous events so well. The reason why Contagion grips the viewer from the first frame is because it makes allegorical references to the contemporary world we live in and taps deep into our insecurities. It is also an intelligent cautionary tale on the globalisation and urbanisation. As the recent ebola crisis amply illustrates, we are never far from a apocalyptic contagion.
 
 Contagion works at various level. The movie is a docudrama which describes how a contagious disease would spread in todays world and tear apart the fabric of the society. It is a mutated virus that spreads through contact and within days becomes a global pandemic. The disease spreads at an alarming rate because of our interconnectedness. Even though there are no surprises in the movie and the story proceeds at an even pace, the movie turns out to be gripping. I was intrigued by the effect the movie had to me. I was drawn to it as I would be to a movie in the horror or thriller genre, even though it had none of the usual cinematic techniques used in the genre. On reflection, the movie seems to work because it plays on our the insecurities associated with living in a inter-connected modern world. It taps into the insecurities that go much beyond the fear of a global pandemic.
