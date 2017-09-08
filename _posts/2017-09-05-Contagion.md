@@ -2,10 +2,10 @@
 layout: post
 title: "Contagion"
 date: 2017-09-05
-tags:
-- Economics
-- Movies 
-categories: [Movie Review]
+tags: 
+- Movies
+- Front
+categories: [Movie Review, Tech]
 ---
 
 It is rare that a movie captures contemporaneous events so well. The reason why Contagion grips the viewer from the first frame is because it makes allegorical references to the contemporary world we live in and taps deep into our insecurities. It is also an intelligent cautionary tale on the globalisation and urbanisation. As the recent ebola crisis amply illustrates, we are never far from a apocalyptic contagion.

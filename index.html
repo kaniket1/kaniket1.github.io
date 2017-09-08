@@ -2,10 +2,23 @@
 layout: default
 title: Aniket's Blog
 ---
+
 <div class="blurb">
-	<h1>This is my blog about economics and social issues.</h1>
-	<p>I am a bit of a renegade economist, always trying to escape the box in which I am supposed to think. 
-		<em>I am a bit radical, don't trust me, just read me. </em> 
-		<br>
+	<p> This is my blog about economics and social issues.
 		<a href="https://kaniket.wordpress.com/about/">You can read a bit more about me here ... </a></p>
 </div><!-- /.blurb -->
+
+<ul>
+  {% for post in site.posts %}
+	{% for tag in post.tags %}
+	{% if tag == "Front" %}
+    <li>
+      <!-- <a href="{{ post.permalink }}">{{ post.title }}</a> -->
+	  <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
+      <p>{{ post.excerpt }}</p>
+    </li>
+  {% endif %}
+  {% endfor %}
+  {% endfor %}
+</ul>
+
