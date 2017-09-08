@@ -1,6 +1,6 @@
 body {
     margin: 60px auto;
-    width: 85%;
+    width: 65%;
     color: rgb(160,105,30);
     background-color: #F5F3EE;
 }
@@ -25,14 +25,14 @@ a:hover {
     color: #C63D0F;
 }
 h1 { 
-    font-size: 1.5em;
+    font-size: 1.6em;
     margin-top: 0.1em;
     margin-bottom: 0.1em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     color: rgb(160,105,30);
 }
 h2 {
-    font-size: 1.5em;
+    font-size: 1.25em;
     margin-top: 0.1em;
     margin-bottom: 0.1em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
@@ -45,7 +45,7 @@ p {
 }
 footer {
     border-top: 1px solid #d5d5d5;
-    font-size: .8em;
+    font-size: 0.8em;
 }
 
 ul.posts { 
@@ -57,5 +57,23 @@ ul.posts {
 }
 
 ul.posts li {
-    list-style: none;
+    list-style: underline;
 }
+
+li {
+  font-size: 110%;
+  margin-top: 0.15em;
+  margin-bottom: 0.15em; }
+  li li {
+    font-size: 100%;
+    margin-top: 0.1em;
+    margin-bottom: 0.1em; }
+   li li li {
+      font-size: 100%; 
+	  margin-top: 0.1em;
+	  margin-bottom: 0.1em; }
+  li p {
+    font-size: 100%;
+    margin-top: 0.1em;
+    margin-bottom: 0.1em;
+    margin: .5em 0; }

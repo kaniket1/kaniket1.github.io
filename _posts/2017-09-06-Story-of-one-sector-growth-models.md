@@ -1,8 +1,16 @@
-
-### The supply side
+---
+layout: post
+title: "Story of one sector growth models"
+date: 2017-09-06
+tags:
+- Economics
+- Growth 
+---
 
 
 The canonical one-sector neo-classical growth model captures the essence of the real world by using a set of simplifying assumptions. These are the assumptions of constant returns to scale and competitive markets. As we will see below, these assumptions are interlinked and revoking one assumption implies revoking the other as well. 
+
+## The supply side
 
 An economy is composed of numerous components (sectors and firms) that vary in their characteristics, i.e., their size, what they produce and the technology they use. The technology can be summarised as the set of ideas that takes factor of production like human labour and machines or other forms of human capital to produce an output. With the same set of human and machines, there may be more than one way of producing the same thing. Technology is a set of ideas of plans. Different technologies are different plans of using machines and humans to produce an output. If one plan produces more than the other, then we would call if a more productive technology. The problem with discovering whether a technology is more productive than other should become apparent here. If a new technology produces more in a quantifiable way, i.e., quantity, then it is easy to say to that the new technology is more productive. If a technology produces the same quantity of goods but of better quality, then it becomes more difficult to show that the new technology is empirically better even though it is clear subjectively that is more productive. The components of the economy, both at the disaggregated level of the firms and the aggregated level of the sectors can have different characteristics in terms of human labour, physical capital and technology used. Yet, it they all have constant returns to scale, it dramatically reduces the complications of understanding the economy. Or we could look at it another way. We can take an economy where all firms have a constant return to scale economy as an easy benchmark case. Once we have understood it, we can further complicate the analysis by revoking the assumption of constant returns to scale. This is an example of layering the information, i.e., understand something simple and them make it more complicated. We will later see the pros and cons of this approach.
 
@@ -18,7 +26,7 @@ The crucial bit thus is whether these two interlinked assumptions are justified 
 As we see below, differentiating the economy into a two sector model and making a case for modelling sales and distribution as a separate sector requires revoking this assumption.
 
 
-### The demand side
+## The demand side
 
 All factors generate factor incomes and agents in the economy choose what to spend and what they save. The spending pattern and the preference of the agents determine whether a particular firm or sector flourishes or declines. Thus, consumers demand matters if the objective is to study a firm or a sector. Conversely, if the objective is to study the economy as a whole, the spending patterns do not matter.
 
