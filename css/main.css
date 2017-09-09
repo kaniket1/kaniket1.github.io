@@ -112,10 +112,22 @@ div.ex2 {
 	    border: 3px solid #73AD21;
 	}
 	
-div.cities {
+div.citiesfront {
+		max-width: 60%;
+		background-color: rgb(244,240,223);
+	    color: blue;
+	    margin: 0px 0 20px 40%;
+	    padding: 20px;
+		border-radius: 25px;
+		border: 1px solid #D9853B;
+	} 
+	
+div.citiesback {
 		max-width: 100%;
-		background-color: rgb(252,255,208);
+		background-color: rgb(244,240,223);
 	    color: blue;
 	    margin: 0px 0 20px 0;
 	    padding: 20px;
+		border-radius: 25px;
+		border: 1px solid #D9853B;
 	} 
