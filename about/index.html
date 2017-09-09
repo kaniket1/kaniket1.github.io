@@ -2,26 +2,21 @@
 layout: default
 title: Kumar Aniket's Blog
 ---
-<!-- <div class="citiesback">
-	<p>I am a bit of a renegade economist, always trying to escape the box in which I am supposed to think.
-		<em>I am a bit radical, don't trust me, just read me. </em> </p>
-	<p>I am a lecturer at the <a href="https://www.cam.ac.uk">University of Cambridge</a>.
-		I trained as an economist at the <a href="http://www.lse.ac.uk" title="LSE Home">LSE</a> obtaining
-		a Ph.D under the supervision of <a href="http://personal.lse.ac.uk/ghatak/">Prof. Maitreesh Ghatak</a> and
-		<a href="http://www.lse.ac.uk/economics/people/facultyPages/OrianaBandiera.aspx">Prof. Oriana Bandiera</a>.
-		His research is primarily focused on applied microeconomic theory and economic development.
-		He teaches a wide variety of courses at the Cambridge.</p>
 
-</div> -->
-<!-- /.blurb -->
+
+<h1>
+	<div class="citiestitle">
+		About me
+	</div>
+</h1>
 
 <ul>
-  {% for post in site.posts %}
+  	{% for post in site.posts %}
 	{% for tag in post.tags %}
 	{% if tag == "About" %}
-	<div class="citiesback">
-	  {{ post.content }}
-  	</div>
+		<div class="citiesback">
+	  		{{ post.content }}
+  		</div>
   {% endif %}
   {% endfor %}
   {% endfor %}

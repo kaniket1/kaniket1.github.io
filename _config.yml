@@ -1,4 +1,3 @@
 name: Kumar Aniket, renegade economist
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
-paginate: 4
