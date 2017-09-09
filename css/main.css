@@ -3,7 +3,7 @@ body {
     width: 75%;
     color: rgb(160,105,30);
     background-color: #F5F3EE;
-	background: url("../fig/pinkback.png") ;
+	background: url("../fig/fade_blue_gota.jpg") ;
 	font: 'Arial';
 }
 nav ul, footer ul {
@@ -130,6 +130,35 @@ div.citiesback {
 		background: url("../fig/offwhite.png") ;
 	    margin: 0px 0 20px 0;
 	    padding: 20px;
+		border-radius: 10px;
+		border: 1px solid #D9853B;
+	}
+	
+div.citiesheader {
+		max-width: 220px;
+		background-color: rgb(244,240,223);
+		background: url("../fig/offwhite.png") ;
+	    margin: 0px 0 0px 0;
+	    padding: 5px;
+		border-radius: 10px;
+		border: 1px solid #D9853B;
+	}
+div.citiesfooter {
+		max-width: 180px;
+		background-color: rgb(244,240,223);
+		background: url("../fig/offwhite.png") ;
+	    margin: 0px 0 0px 0;
+	    padding: 5px;
+		border-radius: 10px;
+		border: 1px solid #D9853B;
+	}
+	
+div.citiesdates {
+		max-width: 180px;
+		background-color: rgb(244,240,223);
+		background: url("../fig/offwhite.png") ;
+	    margin: 7px 7px 0px 0px;
+	    padding: 5px;
 		border-radius: 10px;
 		border: 1px solid #D9853B;
 	}
