@@ -13,16 +13,18 @@ title: Aniket's Blog
   {% for post in site.posts %}
 	{% for tag in post.tags %}
 	{% if tag == "Front" %}
-	
+	<div class="container">
 	<li>
 	<div class="citiesfront">
       <!-- <a href="{{ post.permalink }}">{{ post.title }}</a> -->
 	  <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
       <p>{{ post.excerpt }}</p>
-  </div>
+  </div>	
     </li>
+</div>
   {% endif %}
   {% endfor %}
   {% endfor %}
 </ul>
+
 

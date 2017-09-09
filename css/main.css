@@ -3,9 +3,11 @@ body {
     width: 75%;
     color: rgb(160,105,30);
     background-color: #F5F3EE;
+	background: url("../fig/pinkback.png") ;
+	font: 'Arial';
 }
 nav ul, footer ul {
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+/*    font-family:'Helvetica', 'Arial', 'Sans-Serif';*/
     padding: 0px;
 	font-size: 90%;
     list-style: none;
@@ -43,21 +45,23 @@ a:hover {
 }
 
 h1 { 
-    font-size: 1.6em;
+	font-family: Sans-serif;
+    font-size: 1.4em;
     margin-top: 0.1em;
     margin-bottom: 0.1em;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+/*    font-family:'Helvetica', 'Arial', 'Sans-Serif';*/
     color: rgb(160,105,30);
 }
 h2 {
     font-size: 1.25em;
     margin-top: 0.1em;
     margin-bottom: 0.1em;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+/*    font-family:'Helvetica', 'Arial', 'Sans-Serif';*/
     color: rgb(160,105,30);
 }
 p {
-    font-size: 1.4em;
+	font-family: Sans-serif;
+    font-size: 1em;
     line-height: 1.4em;
     color: #333;
 }
@@ -113,17 +117,42 @@ div.ex2 {
 div.citiesfront {
 		max-width: 400px;
 		background-color: rgb(244,240,223);
+		background: url("../fig/offwhite.png") ;
 	    margin: 0px 0 20px 0;
-	    padding: 20px;
-		border-radius: 25px;
+	    padding: 12px;
+		border-radius: 10px;
 		border: 1px solid #D9853B;
 	} 
 	
 div.citiesback {
 		max-width: 100%;
 		background-color: rgb(244,240,223);
+		background: url("../fig/offwhite.png") ;
 	    margin: 0px 0 20px 0;
 	    padding: 20px;
-		border-radius: 25px;
+		border-radius: 10px;
 		border: 1px solid #D9853B;
-	} 
+	}
+	
+.newspaper {
+    -webkit-column-count: 2; /* Chrome, Safari, Opera */
+    -moz-column-count: 2; /* Firefox */
+    column-count: 2;
+	column-gap: 80px;
+} 
+
+.container {
+    width: 100%;
+}
+.one {
+    width: 100px;
+	float: left;
+}
+.two {
+    width: 400px;
+	float: left;
+}
+.three {
+    width: 300px;
+	float: center;
+}
