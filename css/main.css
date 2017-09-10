@@ -140,6 +140,35 @@ div.citiesheader {
 		border: 1px solid #D9853B;
 	}
 	
+div.citiesicons {
+/*		max-width: 180px;*/
+		display: inline-block;
+		background-color: rgb(244,240,223);
+		background: url("../fig/offwhite.png") ;
+	    margin: 0px 0px 0px 0px;
+	    padding: 10px 0px 5px 15px;
+		border-radius: 25px;
+		border: 1px solid #D9853B;
+	}
+	
+a.citiesicons {
+    text-decoration: none;
+	font-size: 1em;
+    color: #D9853B;
+}
+	
+a.citiesicons:hover {
+    text-decoration: none;
+	font-size: 1em;
+	color: blue;
+	/*font-style: bold;
+	font-variant:small-caps;
+	font-weight:bold;*/
+/*	border-bottom: 3px solid #C63D0F;*/
+/*	border-bottom: 2.5px solid #C63D0F;*/
+	box-shadow: 0px -24px 0px rgb(252,255,0);
+}
+	
 div.citiestitle {
 /*		max-width: 180px;*/
 		display: inline-block;
