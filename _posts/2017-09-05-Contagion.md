@@ -4,7 +4,6 @@ title: "Contagion"
 date: 2017-09-05
 tags: 
 - Movies
-- Front
 categories: [Movie Review, Tech]
 ---
 

@@ -5,7 +5,6 @@ date: 2017-09-06
 tags:
 - Economics
 - Growth
-- Front
 ---
 
 
