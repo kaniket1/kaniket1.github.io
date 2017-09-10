@@ -2,12 +2,11 @@
 layout: default
 title: Aniket's Blog
 ---
-
-<!-- <div class="blurb">
-	<p> This is my blog about economics and social issues.
-		<a href="https://kaniket.wordpress.com/about/">You can read a bit more about me here ... </a></p>
-</div> -->
-<!-- /.blurb -->
+	<h1>
+	<div class="citiestitle">
+		{{ page.title }}
+	</div>
+	</h1>
 
 <ul>
   {% for post in site.posts %}
@@ -15,11 +14,20 @@ title: Aniket's Blog
 	{% if tag == "Front" %}
 	<div class="container">
 	<li>
-	<div class="citiesfront">
+		<div class="container">
+			<div class="one">
+				<div class="citiestitle">
+			{{ post.date | date_to_string }}
+			</div>
+			</div>
+			<div class="two">
+			<div class="citiesfront">
       <!-- <a href="{{ post.permalink }}">{{ post.title }}</a> -->
 	  <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
       <p>{{ post.excerpt }}</p>
-  </div>	
+		</div>
+	</div>
+	<br style="clear: left;" />	
     </li>
 </div>
   {% endif %}
