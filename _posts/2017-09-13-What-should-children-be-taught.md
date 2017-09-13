@@ -8,7 +8,10 @@ tags:
 - Front
 ---
 
-The piece analyses the process through which children can be encouraged to develop a moral framework.
+
+The piece analyses the process through which children can be encouraged to develop a moral framework. 
+
+--- 
 
 If we assume every issues or unknown has a deeper question or an "*unknown*" embedded within it, then each "*known*" is a layered sequence of "*unknowns*". The pertinent question then remains whether we should start off a child with a binary "right or wrong" framework, or shall we refrain from imparting a simple framework to the child. If we refrain, then we would have to teach the child to cogitate, which would be a slow process at first but accelerate once the child learn the process of learning to build their own framework.
 
@@ -17,7 +20,8 @@ Example: *lying*
 Take the example of teaching a child not to "lie". The problem then becomes defining lying. Children often are taught not to utter something that they believe not to be true. That is, if they know they have broken something, then they should not say that they have not broken it. This leaves the possibility of keeping quite after breaking something and still adhering to the norm of not lying.
 
 The objective is to teach the child not to misrepresent. Yet, externally defining a moral framework gets them started quickly but potentially stops them from cogitating. Put in another way, it teaches them rules and not the reason behind the rules. It would but them in the habit of externally seeking rules and not discovering them themselves.
- ****
+
+
 *Rules*: The problems about rules is that it is contingent on the environment. This property is derived from the rigidity. The more contingent the rule gets, the more expansive the decision tree gets and require more memory capacity in the brain. Conversely, analysis uses brain in a different way, making the brain work harder in the process, yet requires less memory capacity. If brain development is path dependent, then small developing small initial tendencies towards either direction could set the individual on an entirely different path.
 
 Rules versus analysis: there are two possibilities.

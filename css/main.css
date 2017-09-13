@@ -80,7 +80,8 @@ ul.posts li {
 li {
   font-size: 110%;
   margin-top: 0.15em;
-  list-style: none;
+/*  list-style: none;
+  list-style-type: square;*/
   margin-bottom: 0.15em; }
   li li {
     font-size: 100%;
