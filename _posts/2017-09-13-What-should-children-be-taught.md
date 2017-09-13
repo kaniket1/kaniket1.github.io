@@ -8,6 +8,7 @@ tags:
 - Front
 ---
 
+The piece analyses the process through which children can be encouraged to develop a moral framework.
 
 If we assume every issues or unknown has a deeper question or an "*unknown*" embedded within it, then each "*known*" is a layered sequence of "*unknowns*". The pertinent question then remains whether we should start off a child with a binary "right or wrong" framework, or shall we refrain from imparting a simple framework to the child. If we refrain, then we would have to teach the child to cogitate, which would be a slow process at first but accelerate once the child learn the process of learning to build their own framework.
 
