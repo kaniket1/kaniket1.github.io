@@ -6,6 +6,7 @@ tags:
 - Book
 - Learning
 - Front
+
 ---
 
 
@@ -36,3 +37,4 @@ A provocative question regarding Brexit: Is it the case that the well to do half
 
 “*self-question self-learning machines*” or “*bayesian learning machines*”:
 If a person is taught that “same sex is wrong”, what would it take for a person to learn that they are wrong. Will it need to have a positive experience or will they be able to revise their opinion without ever coming across same sex. Put another way, does teaching children make them intellectually curious “*self-question self-learning machines*” or “*bayesian learning machines*” that update their framework when they come across empirical evidence.
+
